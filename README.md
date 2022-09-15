@@ -24,4 +24,4 @@ Bu aşamadan sonra tekrar birleşime geçilir.
 Big-O Gösterimi:
 Time complexity formülü: O(nLogn) şeklindedir. Her ikiye bölünmüş dizinin birleşim (merge) işlemi için dizinin uzunluğu kadar (n kadar) işlem yapılmıştır. O(nLogn) formülü --> O(6(log6)) şeklinde olacaktır.
 
-PatikaDev profilim [https://github.com/metinBARAN]
+PatikaDev profilim [https://app.patika.dev/bozkus]
